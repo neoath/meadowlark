@@ -1,0 +1,27 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "meadowlark-desc",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoath/meadowlark.git"
+  },
+  "author": "neoath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neoath/meadowlark/issues"
+  },
+  "homepage": "https://github.com/neoath/meadowlark#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
